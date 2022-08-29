@@ -1,0 +1,8 @@
+Contract class hash: 0x1b322dd827d4579c10a08025b9d685c7ed16dcb25c7371dd06a65984cb5426
+Transaction hash: 0x1d148f6053e19e6db338101c6d6a9c317ce78e11aaf5ccfb7d7916e941cd375
+
+
+
+Deploy transaction was sent.
+Contract address: 0x042405d1d36ecacd2b3455d87eee1f62b01833a65b2c75e950961523c2667e6b
+Transaction hash: 0x48d608fa6ef59becd2a142423871ca4575a1ca50bc484b0a6897b834b22aae2
